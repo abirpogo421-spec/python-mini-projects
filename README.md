@@ -12,8 +12,8 @@ Small physics, math and data projects in Python.
 ## Setup
 
 ```bash
-git clone https://github.com/abirpogo421-spec/Python-Mini-Projects.git
-cd Python-Mini-Projects
+git clone https://github.com/abirpogo421-spec/python-mini-projects.git
+cd python-mini-projects
 pip install -r requirements.txt
 ```
 
